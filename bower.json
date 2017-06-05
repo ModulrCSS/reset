@@ -1,0 +1,23 @@
+{
+  "name": "modulr-reset",
+  "homepage": "https://github.com/ModulrCSS/reset",
+  "authors": [
+    "uloga <wpnemesis@gmail.com>"
+  ],
+  "description": "Modulr.css Reset Module",
+  "main": "",
+  "keywords": [
+    "css",
+    "reset",
+    "module",
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
