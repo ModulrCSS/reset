@@ -78,6 +78,14 @@ p{
   float: left;
   width: 100%;
 }
+[mod-child]{
+  border-color: transparent;
+}
+[mod-active]{
+  color: inherit;
+  border-color: inherit;
+  background: inherit;
+}
 
 /* __ Clear Fix __ */
 
